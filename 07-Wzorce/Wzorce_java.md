@@ -10,12 +10,12 @@
 9) concreteDecorator
 
 # Dywan Sierpińskiego
-10) Budowniczy(builder)
-11) ConcreteBuilder
-12) Kompozyt
-13) Komponent
+10) kompozyt
+11) Kompozyt
+12) Obserwator
+13) Obserwator
 14) addMouseListener(MouseListener)
     AddActionListener(ActionListener)	
 15) MouseListener
 16) ActionListener
-17) Kompozyt
+17) ConcreteObserver
